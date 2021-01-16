@@ -1,0 +1,5 @@
+
+Scan les copies plutot que les sources pour la  boucle principale
+Scan d'abord les noms identiques
+Verifier a l'interieur des tar/cpio
+analyser les mp3 pour ignorer les tags
